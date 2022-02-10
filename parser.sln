@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parser", "parser\parser.csproj", "{BFFD5994-337C-44C0-A65B-47A04DF9B9B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFFD5994-337C-44C0-A65B-47A04DF9B9B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFFD5994-337C-44C0-A65B-47A04DF9B9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFFD5994-337C-44C0-A65B-47A04DF9B9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFFD5994-337C-44C0-A65B-47A04DF9B9B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95997EFB-5696-4E67-80E3-F83ACB58DF6C}
+	EndGlobalSection
+EndGlobal
